@@ -1,5 +1,5 @@
 # Bjanka Emini
-Kumanovo
-Ancient History Enthusiast
+## Kumanovo
+## Ancient History Enthusiast
 # Things I like:
-coffee, reading, walking in nature.
+## coffee, reading, walking in nature.
